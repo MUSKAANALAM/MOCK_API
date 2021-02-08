@@ -14,3 +14,10 @@ localhost:3000/books/add for adding books
 
 
 localhost:3000/author/add for adding author
+
+
+TO START THE PROJECT:
+ npm install
+ 
+ 
+ node app.js is the  start server
